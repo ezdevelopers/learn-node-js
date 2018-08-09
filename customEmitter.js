@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 
 //Building a custom Node Event Emitter
 module.exports = class Emitter{

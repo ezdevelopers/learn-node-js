@@ -1,5 +1,5 @@
-"use strict";
-var Greetr = require('./greetr')
+//"use strict";
+var Greetr = require('./greetr');
 var greetr = new Greetr();
 
  greetr.on('greet', function(){
